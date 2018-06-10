@@ -9,6 +9,6 @@ public class SingleObject {
 	}
 	
 	public void showMessage() {
-		System.out.println("hello, SingleObject");
+		System.out.println("hello, SingleObject");//show message
 	}
 }
